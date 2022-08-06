@@ -11,12 +11,14 @@
     "moralis:cloud": "moralis-admin-cli watch-cloud-folder --moralisSubdomain psfmnvjdylcg.usemoralis.com --autoSave 1 --moralisCloudfolder ./cloudFunctions"
   },
   "dependencies": {
+    "@web3uikit/core": "^0.1.4",
+    "@web3uikit/icons": "^0.1.4",
+    "@web3uikit/web3": "^0.1.4",
     "moralis": "^1.11.0",
     "next": "12.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-moralis": "^1.4.0",
-    "web3uikit": "^0.1.159"
+    "react-moralis": "^1.4.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.8",
