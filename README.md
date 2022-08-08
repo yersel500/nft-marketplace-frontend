@@ -30,7 +30,7 @@ You can find the back-end [here](https://github.com/yersel500/nft-marketplace).
 
 ## Video Live Version
 
-[Live Version](https://sparkling-butterfly-2231.on.fleek.co/)
+https://user-images.githubusercontent.com/92594336/183481080-1003dfc1-5edf-41ee-aa20-217c6d7af59d.mp4
 
 # Full-Stack Setup
 
